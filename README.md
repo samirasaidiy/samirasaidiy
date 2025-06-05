@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samirasaidiy
 - 🌱 I’m currently learning python
--  I’m looking to collaborate on anything , as longa as I find it fun.
+-  I’m looking to collaborate on anything , as long as I find it fun.
 
 
 <!---
